@@ -1,0 +1,2 @@
+public class RunThread2 {
+}
